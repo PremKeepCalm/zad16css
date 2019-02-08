@@ -1,0 +1,15 @@
+.main {
+    width: 250px;
+    height: 500px;
+    background-color: blue;
+}
+.squares {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+h1 {
+    color: antiquewhite;
+    margin: 10px;
+}
